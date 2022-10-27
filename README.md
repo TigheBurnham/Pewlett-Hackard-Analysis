@@ -10,11 +10,11 @@ In this analysis we utilized PostgreSQL and pgAdmin to help the management team 
 
 - Based on the table above the silver tsunami is made up of 90,398 employees who can retire; therefore, the management team will need to be prepared to fill or consolidate these positions.
 
--It appears the "Staff" position is the largest role that needs to be filled at 32,452 upcoming vacancies.
+- It appears the "Staff" position is the largest role that needs to be filled at 32,452 upcoming vacancies.
 
--The "Assistant Engineering" department has the least number of employees eligible for retirement at 1,761.
+- The "Assistant Engineering" department has the least number of employees eligible for retirement at 1,761.
 
--There are 1,940 employees eligible for the mentorship program
+- There are 1,940 employees eligible for the mentorship program
 
 ## Summary: 
 
